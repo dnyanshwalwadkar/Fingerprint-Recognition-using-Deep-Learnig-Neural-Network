@@ -1,5 +1,6 @@
 # Fingerprint Recognition
-Fingerprint recognition using CNN  
+Fingerprint recognition using Deep Neural Network
+For more details Contact to dnyaneshwalwadkar10@gmail.com
 
 ## Result
 
